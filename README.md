@@ -7,7 +7,7 @@ Entire Analysis can be found in Flight_Price_Predictor.ipynb
 
 
 # Model
-Random Forest REgressor model is deployed on google drive with shareable link.
+Random Forest Regressor model is deployed on google drive with shareable link.
 
 # Front end:
 Front end is developed using Streamlit in python in flights.py file.
