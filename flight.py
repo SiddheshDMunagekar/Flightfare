@@ -12,7 +12,7 @@ def run_app():
     st.image(Image.open('aeroplane.JPG'),use_column_width=True)
     st.sidebar.image(Image.open('indigo.jpg'), use_column_width=True)
 
-    st.title("Indian Domestic Flight Price Predictor")
+    st.title("Indian Domestic Flight Fare Predictor")
 
     ##Departure Date
     journey_date = st.sidebar.date_input('Departure date', min_value=dt.date(2019, 1, 1), max_value=dt.date(2035, 3, 1))
