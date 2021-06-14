@@ -14,7 +14,7 @@ Random Forest Regressor model is deployed on google drive with shareable link.
 Front end is developed using Streamlit in python in flights.py file.
 
 
-# Aplication link
-https://share.streamlit.io/siddheshdmunagekar/flightfare/main/flight.py
+# Aplication link: **https://share.streamlit.io/siddheshdmunagekar/flightfare/main/flight.py**
+
 
 
